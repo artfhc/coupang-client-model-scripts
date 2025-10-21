@@ -1,0 +1,103 @@
+# ML Model files
+*.mlmodel
+*.tflite
+*.onnx
+*.pb
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.keras
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.bin
+*.safetensors
+
+# Coding agent
+CLAUDE.md
+
+# TensorFlow models
+saved_model/
+*.ckpt
+*.ckpt.*
+checkpoint
+
+# PyTorch models
+*.pth.tar
+
+# Scikit-learn models
+*.sav
+
+# XGBoost models
+*.xgb
+
+# LightGBM models
+*.lgb
+
+# Image output files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+
+# Output directories
+bin/
+output/
+models/
+encoded/
+decoded/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
