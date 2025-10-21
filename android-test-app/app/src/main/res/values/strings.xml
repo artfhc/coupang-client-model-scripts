@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Model Decoder Test</string>
+    <string name="model_png_url">https://image10.coupangcdn.com/image/coupang/search/models/odt-original.tflite_chunk.png</string>
+</resources>
